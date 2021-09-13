@@ -23,6 +23,7 @@ This list will be broken down into 4 categories of goals/lists:
 Accountability and accomplishment requires a clearly defined set of measurements for success. I will be measuring the success, and/or fuffillment of a listed item based on whether or not I truly, and honestly believe I tried my absolute hardest to meet the goal as it was written. I don't believe that not meeting the goal as it's written is a complete failure; if I have learned something from my experience attempting the goal and maybe even produced a story to tell because of that very experience, then that in my eyes is a successful outcome.
 
 ___
+
 ## Software Engineering Goals :computer:
 * ###### Contribute to the Godot project in the form of fixing bugs, enhancing the current feature set or writing and implementing a new feature.
 * ###### Write and maintain a personal algorithmic trading bot for the Cryptocurrency market.
@@ -66,6 +67,7 @@ ___
 * ###### Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman & Julie Sussman.
 * ###### The Hundred-Page Machine Learning Book by Andriy Burkov.
 * ###### Deep Learning by Ian Goodfellow, Yoshua Bengio & Aaron Courville.
+
 ___
 
 ### Review
